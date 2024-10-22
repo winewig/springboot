@@ -1,0 +1,3 @@
+- Created a dev configuration profile. Using Autowired reading this profile properties.
+- Created Students. Spring Boot converts list from Java to Jackson Json.
+- Added Actuator into pom.xml. Added only metrics into application-dev.properties to check http.server.requests
