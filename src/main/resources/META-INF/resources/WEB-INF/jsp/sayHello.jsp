@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
     <head>
         <title>My first HTML Page</title>
     </head>
